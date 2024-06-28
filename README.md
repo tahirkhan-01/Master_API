@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # Demo
 ![Screenshot 2024-06-29 004239](https://github.com/tahirkhan-01/Master_API/assets/161066436/d0c6bad0-258c-452d-b699-467ea0b8d626)
 ![Screenshot 2024-06-29 003959](https://github.com/tahirkhan-01/Master_API/assets/161066436/94d706cc-f06a-405f-a26d-2e413d3b6547)
+<img width="956" alt="Screenshot api" src="https://github.com/tahirkhan-01/Master_API/assets/161066436/dbdca0f7-14ef-4f5b-9c9b-6ae003f44c43">
+
 
 ## Getting Started
 
