@@ -7,6 +7,12 @@ import { FaMoneyBillTrendUp } from "react-icons/fa6";
 import { RiDoubleQuotesL } from "react-icons/ri";
 import { IoLogoYoutube } from "react-icons/io5";
 import { TbBrandShopee } from "react-icons/tb";
+import { FaInstagram } from "react-icons/fa";
+import { IoChatbubblesSharp } from "react-icons/io5";
+import { IoChatbubbleEllipsesSharp } from "react-icons/io5";
+import { RiTodoFill } from "react-icons/ri";
+import { FaRegSquarePlus } from "react-icons/fa6";
+
 export interface ApiDataType {
   id: number;
   title: string;
@@ -41,6 +47,9 @@ export const apiData: ApiDataType[] = [
   { id: 8, title: "Quotes Apis", Icon: RiDoubleQuotesL, url: "/quotes",  owner:"Hitesh choudary" },
   { id: 9, title: "Youtube Apis", Icon: IoLogoYoutube, url: "/youtube",  owner:"Hitesh choudary" },
   { id: 10, title: "Ecommerce Apis", Icon: TbBrandShopee, url: "/ecommerce",  owner:"Hitesh choudary" },
-
-
+  { id: 11, title: "Social Media Apis", Icon: FaInstagram, url: "/socialMedia",  owner:"Hitesh choudary" },
+  { id: 12, title: "Social Media Post Apis", Icon:FaRegSquarePlus, url: "/socialMediaPosts",  owner:"Hitesh choudary" },
+  { id: 13, title: "Chat App Apis", Icon: IoChatbubbleEllipsesSharp, url: "/chatApp",  owner:"Hitesh choudary" },
+  { id: 14, title: "Group Chat Apis", Icon: IoChatbubblesSharp, url: "/groupChat",  owner:"Hitesh choudary" },
+  { id: 15, title: "ToDo List Apis", Icon: RiTodoFill, url: "/toDoList",  owner:"Hitesh choudary" },
 ];
